@@ -33,10 +33,9 @@ val lionel = Developer(
 )
 ```
 
-- 🎓 Mahasiswa **Information Technology Management** di **UNESA**
-- 📱 Lagi deep dive ke **Mobile Dev** — Flutter & Kotlin addict
+- 🎓 Mahasiswa **Manajemen Informatika** di **UNESA**
+- 📱 Deep dive ke **Mobile Dev** — Flutter & Kotlin
 - 🌐 Also kuat di backend: **Laravel + PHP + MySQL + Django**
-- 🐍 Sesekali nge-Python buat data stuff
 - ⚡ Fun fact: Nonton **Star Wars** 
 
 ---
