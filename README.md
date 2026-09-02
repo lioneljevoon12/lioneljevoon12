@@ -65,16 +65,6 @@ val lionel = Developer(
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=lioneljevoon12&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4F8EF7&icon_color=4F8EF7&text_color=FFFFFF&ring_color=4F8EF7" width="49%" alt="GitHub Stats"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lioneljevoon12&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4F8EF7&text_color=FFFFFF" width="49%" alt="Top Languages"/>
-
-</div>
-
 ---
 
 ## 💬 Quote of the Day
