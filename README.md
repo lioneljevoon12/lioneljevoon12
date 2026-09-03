@@ -28,7 +28,7 @@ val lionel = Developer(
     uni      = "Universitas Negeri Surabaya (UNESA)",
     major    = "Information Technology Management",
     focus    = "Mobile Development",
-    stack    = listOf("Laravel", "PHP", "Python", "Flutter", "Kotlin", "MySQL"),
+    stack    = listOf("Laravel", "Python", "Flutter", "Kotlin", "PostgreSQL", "MySQL"),
     motto    = "Ship it. Then make it better. 🚢"
 )
 ```
